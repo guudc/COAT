@@ -1,2 +1,2 @@
-# Coat
-# Coder of all time
+# COAT
+## Coder of all time
